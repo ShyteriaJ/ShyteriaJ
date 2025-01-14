@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/shyteriaj/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/shyteriaj/ticket-lifecycle)
 - <b>Microsoft Azure</b>
- - [Creating Resource Groups and Virtual Machines in Azure](https://github.com/shyteriaj/creat-rg-wm)
+ - [Creating Resource Groups and Virtual Machines in Azure](https://github.com/shyteriaj/create-rg-wm)
   - [Configuring Active Directory within Azure VMs](https://github.com/shyteriaj/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shyteriaj/azure-network-protocols)
 
